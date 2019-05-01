@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+AMS Hackers is a group of people in Amsterdam who gather together to
+appease our curiosity, learn and have fun by engaging in challenging
+and interesting projects.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Our philosophy
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We value deep knowledge and believe that both the learning and joy you
+get from a project get better as it progresses and you find your own
+unique set of problems.
 
-
-[jekyll-organization]: https://github.com/jekyll
+A lot of people underestimate their abilities. The best way to learn
+is not to be afraid to try to solve problems you do not know how to
+solve yet.
