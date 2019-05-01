@@ -24,6 +24,8 @@ url: "https://ams-hackers.org" # the base hostname & protocol for your site, e.g
 #twitter_username: jekyllrb
 github_username:  ams-hackers
 
+google_analytics: UA-139414721-1
+
 # Build settings
 markdown: kramdown
 theme: minima
